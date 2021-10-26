@@ -1,5 +1,5 @@
 {
-  "message": "zkLink Testnet 2.0 upgrading, est. to be finished at Sep 30 2:00 pm  (Singapore Time). All user states will be reset.",
-  "expire": "",
+  "message": "Deposit to Layer2 on Goerli may fail, est to be fixed before Oct 28 0:00 (Singapore Time)",
+  "expire": "2021-10-27T16:00:00Z",
   "expire_comment": "defalt: no show, case: -1 = show always, case: 2021-09-30T11:30:00 = show before this time"
 }
