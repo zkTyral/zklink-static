@@ -26,7 +26,7 @@
   {"chainId": 5, "linkId": 4, "symbol": "RAY", "address": "0xd42b3eebb2e86ef83f78eFB7d5432912D5F9259c", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/assets/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png", "fastswap": true, "bridge": false},
   {"chainId": 5, "linkId": 4, "symbol": "USDT", "address": "0xe583769738b6dd4E7CAF8451050d1948BE717679", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png", "fastswap": true, "bridge": false},
   {"chainId": 5, "linkId": 4, "symbol": "BUSD", "address": "0xb809b9B2dc5e93CB863176Ea2D565425B03c0540", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png", "fastswap": true, "bridge": false},
-  {"chainId": 5, "linkId": 4, "symbol": "ZKL", "address": "0x6468D430A9FE6b28492440e0BD64E79CA762A8fd", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png", "fastswap": false, "bridge": true},
+  {"chainId": 5, "linkId": 4, "symbol": "ZKL", "address": "0x6468D430A9FE6b28492440e0BD64E79CA762A8fd", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png", "fastswap": false, "bridge": true}
 
 
 ]
