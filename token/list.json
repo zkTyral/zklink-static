@@ -5,7 +5,6 @@
   {"symbol": "USDT", "address": "0xe583769738b6dd4E7CAF8451050d1948BE717679", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"},
   {"symbol": "ZKL", "address": "0xF31DdB7cB140afB0Ee72EA87c0806D31eb08f3cf", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"},
   {"symbol": "AVAX", "address": "0x0000000000000000000000000000000000000000", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png"},
-  {"symbol": "USDC", "address": "0xd87c933255A8591f7C204Fd7D0a2D108a953Fca8", "icon": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"},
   {"symbol": "rETH", "address": "0x0000000000000000000000000000000000000000", "icon": "https://static-cf.zk.link/static/icons/128x128/rinkeby.png"},
   {"symbol": "UNI", "address": "0x8Dc5CA19e64ade17aEEB4F8c52BF8ff220eD17dE", "icon": "https://www.gemini.com/images/currencies/icons/default/uni.svg"},
   {"symbol": "SUSHI", "address": "0xFced6f29c8BE8C1A679fBc7Ebb0AC1D3298e775e", "icon": "https://www.gemini.com/images/currencies/icons/default/sushi.svg"},
@@ -14,10 +13,16 @@
   {"symbol": "goETH", "address": "0x0000000000000000000000000000000000000000", "icon": "https://static-cf.zk.link/static/icons/128x128/goerli.png"},
   {"symbol": "SRM", "address": "0x80101F4da93A2912DC41b8eDBB30b98d428b8C43", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/assets/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png"},
   {"symbol": "RAY", "address": "0xd42b3eebb2e86ef83f78eFB7d5432912D5F9259c", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/assets/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png"},
-  {"symbol": "BUSD", "address": "0xb809b9B2dc5e93CB863176Ea2D565425B03c0540", "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"},
   {"symbol": "CRV", "address": "0xD533a949740bb3306d119CC777fa900bA034cd52", "icon": "https://raw.githubusercontent.com/trustwallet/assets/365d48e1ea18383f4df6d1a4286e8b7c624e4922/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"},
   {"symbol": "LDO", "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32", "icon": "https://raw.githubusercontent.com/trustwallet/assets/adf87de1acd3d802ac8225ba094b4749c1b78eec/blockchains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png"},
   {"symbol": "JOE", "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd", "icon": "https://s2.coinmarketcap.com/static/img/coins/128x128/11396.png"},
-  {"symbol": "USD", "address": "0x0000000000000000000000000000000000000000", "icon": "https://raw.githubusercontent.com/zkLinkProtocol/zklink-static/devnet/token/icons/128x128/USD.png"},
-  {"symbol": "SYN", "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29", "icon": "https://s2.coinmarketcap.com/static/img/coins/128x128/12147.png"}
+  {"symbol": "SYN", "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29", "icon": "https://s2.coinmarketcap.com/static/img/coins/128x128/12147.png"},
+  {"symbol": "USD", "icon": "https://static.zk.link/token/icons/default/usd.svg"},
+  {"symbol": "wAVAX", "icon": "https://static.zk.link/token/icons/default/avax.svg"},
+  {"symbol": "wMATIC", "icon": "https://static.zk.link/token/icons/default/matic.svg"},
+  {"symbol": "wETH", "icon": "https://static.zk.link/token/icons/default/eth.svg"},
+  {"symbol": "wBTC", "icon": "https://static.zk.link/token/icons/default/btc.svg"},
+  {"symbol": "BUSD", "icon": "https://static.zk.link/token/icons/default/busd.svg"},
+  {"symbol": "USDC", "icon": "https://static.zk.link/token/icons/default/usdc.svg"}
+
 ]
