@@ -1,1 +1,16 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><rect fill="#5E7CF1" width="40" height="40" rx="12"/><g transform="translate(4 4)"><circle cx="16" cy="16" r="14" fill="#fff"/><svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 16C0 7.163 7.163 0 16 0s16 7.163 16 16-7.163 16-16 16S0 24.837 0 16z" fill="#5E7CF1"/><path fill-rule="evenodd" clip-rule="evenodd" d="M16 5.333l6.667 10.725L16 19.878l-6.668-3.82 6.668-10.725zm-.002 15.702l6.669-4.065-6.669 9.697-6.665-9.696 6.665 4.064z" fill="#fff"/></svg></g></svg>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3809_4430)">
+<path d="M64 0H0V64H64V0Z" fill="#627EEA"/>
+<path d="M31.7495 10V26.2651L45.4969 32.408L31.7495 10Z" fill="white" fill-opacity="0.602"/>
+<path d="M31.7492 10L18 32.408L31.7492 26.2651V10Z" fill="white"/>
+<path d="M31.7495 42.9481V53.9999L45.5061 34.9678L31.7495 42.9481Z" fill="white" fill-opacity="0.602"/>
+<path d="M31.7492 53.9999V42.9463L18 34.9678L31.7492 53.9999Z" fill="white"/>
+<path d="M31.7495 40.3901L45.4969 32.408L31.7495 26.2687V40.3901Z" fill="white" fill-opacity="0.2"/>
+<path d="M18 32.408L31.7492 40.3901V26.2687L18 32.408Z" fill="white" fill-opacity="0.602"/>
+</g>
+<defs>
+<clipPath id="clip0_3809_4430">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
