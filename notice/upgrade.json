@@ -1,5 +1,5 @@
 {
-  "message": "zkLink is upgrading the system from 10am to 2pm Singapore Time.\nAll services are unavailable during this period of time.",
+  "message": "zkLink is upgrading the system from 3pm to 10pm Singapore Time.\nAll services are unavailable during this period of time.",
   "expire": "2022-08-25T014:00:00Z",
   "expire_comment": "defalt: no show, case: -1 = show always, case: 2021-09-30T11:30:00 = show before this time"
 }
