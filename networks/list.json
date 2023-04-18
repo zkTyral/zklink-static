@@ -7,7 +7,7 @@
     "decimals": 18,
     "rpcUrl": "https://matic-mumbai.chainstacklabs.com",
     "explorerUrl": "https://explorer-mumbai.maticvigil.com",
-    "iconUrl": "/token/icons/default/matic.svg",
+    "iconUrl": "/token/icons/default/matic.svg"
   },
   {
     "name": "AVAX Testnet",
@@ -17,7 +17,7 @@
     "decimals": 18,
     "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
     "explorerUrl": "https://testnet.snowtrace.io",
-    "iconUrl": "/token/icons/default/avax.svg",
+    "iconUrl": "/token/icons/default/avax.svg"
   },
   {
     "name": "Goerli Testnet",
@@ -27,7 +27,7 @@
     "decimals": 18,
     "rpcUrl": "https://eth-goerli.public.blastapi.io",
     "explorerUrl": "https://goerli.etherscan.io",
-    "iconUrl": "/token/icons/default/eth.svg",
+    "iconUrl": "/token/icons/default/eth.svg"
   },
   {
     "name": "Bsc Testnet",
@@ -37,6 +37,6 @@
     "decimals": 18,
     "rpcUrl": "https://endpoints.omniatech.io/v1/bsc/testnet/public",
     "explorerUrl": "https://testnet.bscscan.com",
-    "iconUrl": "/token/icons/default/bnb.svg",
-  },
+    "iconUrl": "/token/icons/default/bnb.svg"
+  }
 ]
