@@ -27,7 +27,7 @@
     "decimals": 18,
     "rpcUrl": "https://endpoints.omniatech.io/v1/bsc/testnet/public",
     "explorerUrl": "https://testnet.bscscan.com",
-    "iconUrl": "/token/icons/default/bnb.svg"
+    "iconUrl": "/token/icons/default/bsc.svg"
   },
   {
     "name": "Goerli Testnet",
@@ -47,7 +47,7 @@
     "decimals": 18,
     "rpcUrl": "https://testnet.era.zksync.dev",
     "explorerUrl": "https://goerli.explorer.zksync.io/",
-    "iconUrl": "/token/icons/default/eth.svg"
+    "iconUrl": "/token/icons/default/zksync.svg"
   },
   {
     "name": "Scroll Alpha Testnet",
@@ -57,7 +57,7 @@
     "decimals": 18,
     "rpcUrl": "https://scroll-prealpha.blockpi.network/v1/rpc/public",
     "explorerUrl": "https://blockscout.scroll.io/",
-    "iconUrl": "/token/icons/default/eth.svg"
+    "iconUrl": "/token/icons/default/scroll.png"
   },
   {
     "name": "Linea Testnet",
@@ -67,6 +67,6 @@
     "decimals": 18,
     "rpcUrl": "https://rpc.goerli.linea.build",
     "explorerUrl": "https://explorer.prealpha.zkevm.consensys.net/",
-    "iconUrl": "/token/icons/default/eth.svg"
+    "iconUrl": "/token/icons/default/linea.png"
   }
 ]
