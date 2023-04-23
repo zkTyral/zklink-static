@@ -20,9 +20,19 @@
     "iconUrl": "/token/icons/default/avax.svg"
   },
   {
+    "name": "Bsc Testnet",
+    "chainId": 97,
+    "layerTwoChainId": 3,
+    "symbol": "BNB",
+    "decimals": 18,
+    "rpcUrl": "https://endpoints.omniatech.io/v1/bsc/testnet/public",
+    "explorerUrl": "https://testnet.bscscan.com",
+    "iconUrl": "/token/icons/default/bnb.svg"
+  },
+  {
     "name": "Goerli Testnet",
     "chainId": 5,
-    "layerTwoChainId": 3,
+    "layerTwoChainId": 4,
     "symbol": "ETH",
     "decimals": 18,
     "rpcUrl": "https://eth-goerli.public.blastapi.io",
@@ -30,13 +40,33 @@
     "iconUrl": "/token/icons/default/eth.svg"
   },
   {
-    "name": "Bsc Testnet",
-    "chainId": 97,
-    "layerTwoChainId": 4,
-    "symbol": "BNB",
+    "name": "zkSync Era Testnet",
+    "chainId": 280,
+    "layerTwoChainId": 5,
+    "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://endpoints.omniatech.io/v1/bsc/testnet/public",
-    "explorerUrl": "https://testnet.bscscan.com",
-    "iconUrl": "/token/icons/default/bnb.svg"
+    "rpcUrl": "https://testnet.era.zksync.dev",
+    "explorerUrl": "https://goerli.explorer.zksync.io/",
+    "iconUrl": "/token/icons/default/eth.svg"
+  },
+  {
+    "name": "Scroll Alpha Testnet",
+    "chainId": 534353,
+    "layerTwoChainId": 6,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://scroll-prealpha.blockpi.network/v1/rpc/public",
+    "explorerUrl": "https://blockscout.scroll.io/",
+    "iconUrl": "/token/icons/default/eth.svg"
+  },
+  {
+    "name": "Linea Testnet",
+    "chainId": 59140,
+    "layerTwoChainId": 7,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://rpc.goerli.linea.build",
+    "explorerUrl": "https://explorer.prealpha.zkevm.consensys.net/",
+    "iconUrl": "/token/icons/default/eth.svg"
   }
 ]
