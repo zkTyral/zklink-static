@@ -57,7 +57,7 @@
     "decimals": 18,
     "rpcUrl": "https://scroll-prealpha.blockpi.network/v1/rpc/public",
     "explorerUrl": "https://blockscout.scroll.io/",
-    "iconUrl": "/token/icons/default/scroll.png"
+    "iconUrl": "/token/icons/default/scroll.svg"
   },
   {
     "name": "Linea Testnet",
@@ -67,6 +67,6 @@
     "decimals": 18,
     "rpcUrl": "https://rpc.goerli.linea.build",
     "explorerUrl": "https://explorer.prealpha.zkevm.consensys.net/",
-    "iconUrl": "/token/icons/default/linea.png"
+    "iconUrl": "/token/icons/default/linea.svg"
   }
 ]
