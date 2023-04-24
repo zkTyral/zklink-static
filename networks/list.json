@@ -20,7 +20,7 @@
     "iconUrl": "/token/icons/default/avax.svg"
   },
   {
-    "name": "BSC Testnet",
+    "name": "BNB Chain Testnet",
     "chainId": 97,
     "layerTwoChainId": 3,
     "symbol": "BNB",
