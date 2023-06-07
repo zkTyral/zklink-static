@@ -55,7 +55,7 @@
     "layerTwoChainId": 6,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://scroll-prealpha.blockpi.network/v1/rpc/public",
+    "rpcUrl": "https://alpha-rpc.scroll.io/l2",
     "explorerUrl": "https://blockscout.scroll.io",
     "iconUrl": "/token/icons/default/scroll.svg"
   },
