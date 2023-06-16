@@ -68,5 +68,15 @@
     "rpcUrl": "https://rpc.goerli.linea.build",
     "explorerUrl": "https://explorer.prealpha.zkevm.consensys.net",
     "iconUrl": "/token/icons/default/linea.svg"
+  },
+  {
+    "name": "Arbitrum Goerli",
+    "chainId": 421613,
+    "layerTwoChainId": 9,
+    "symbol": "AGOR",
+    "decimals": 18,
+    "rpcUrl": "https://endpoints.omniatech.io/v1/arbitrum/goerli/public",
+    "explorerUrl": "https://testnet.arbiscan.io",
+    "iconUrl": "/token/icons/default/arbitrum.svg"
   }
 ]
