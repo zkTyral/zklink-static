@@ -78,5 +78,76 @@
     "rpcUrl": "https://endpoints.omniatech.io/v1/arbitrum/goerli/public",
     "explorerUrl": "https://testnet.arbiscan.io",
     "iconUrl": "/token/icons/default/arbitrum.svg"
+  },
+
+  {
+    "name": "Polygon Mainnet",
+    "chainId": 137,
+    "layerTwoChainId": 1,
+    "symbol": "MATIC",
+    "decimals": 18,
+    "rpcUrl": "https://polygon.llamarpc.com",
+    "explorerUrl": "https://polygonscan.com",
+    "iconUrl": "/token/icons/default/matic.svg"
+  },
+  {
+    "name": "Avalanche C-Chain",
+    "chainId": 43114,
+    "layerTwoChainId": 2,
+    "symbol": "AVAX",
+    "decimals": 18,
+    "rpcUrl": "https://avalanche-c-chain.publicnode.com",
+    "explorerUrl": "https://snowtrace.io",
+    "iconUrl": "/token/icons/default/avax.svg"
+  },
+  {
+    "name": "BNB Smart Chain Mainnet",
+    "chainId": 56,
+    "layerTwoChainId": 3,
+    "symbol": "BNB",
+    "decimals": 18,
+    "rpcUrl": "https://bsc-dataseed.binance.org",
+    "explorerUrl": "https://bscscan.com",
+    "iconUrl": "/token/icons/default/bsc.svg"
+  },
+  {
+    "name": "Ethereum Mainnet",
+    "chainId": 1,
+    "layerTwoChainId": 4,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://eth.llamarpc.com",
+    "explorerUrl": "https://etherscan.io",
+    "iconUrl": "/token/icons/default/eth.svg"
+  },
+  {
+    "name": "zkSync Era Mainnet",
+    "chainId": 324,
+    "layerTwoChainId": 5,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://mainnet.era.zksync.io",
+    "explorerUrl": "https://explorer.zksync.io",
+    "iconUrl": "/token/icons/default/zksync.svg"
+  },
+  {
+    "name": "Linea",
+    "chainId": 59144,
+    "layerTwoChainId": 7,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "",
+    "explorerUrl": "",
+    "iconUrl": "/token/icons/default/linea.svg"
+  },
+  {
+    "name": "Arbitrum One",
+    "chainId": 42161,
+    "layerTwoChainId": 9,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://1rpc.io/arb",
+    "explorerUrl": "https://testnet.arbiscan.io",
+    "iconUrl": "/token/icons/default/arbitrum.svg"
   }
 ]
