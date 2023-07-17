@@ -137,7 +137,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "rpcUrl": "",
-    "explorerUrl": "",
+    "explorerUrl": "https://explorer.linea.build",
     "iconUrl": "/token/icons/default/linea.svg"
   },
   {
