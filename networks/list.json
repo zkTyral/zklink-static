@@ -147,7 +147,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "rpcUrl": "https://1rpc.io/arb",
-    "explorerUrl": "https://testnet.arbiscan.io",
+    "explorerUrl": "https://arbiscan.io",
     "iconUrl": "/token/icons/default/arbitrum.svg"
   }
 ]
