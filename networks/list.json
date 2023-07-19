@@ -96,7 +96,7 @@
     "layerTwoChainId": 2,
     "symbol": "AVAX",
     "decimals": 18,
-    "rpcUrl": "https://avalanche-c-chain.publicnode.com",
+    "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
     "explorerUrl": "https://snowtrace.io",
     "iconUrl": "/token/icons/default/avax.svg"
   },
@@ -146,7 +146,7 @@
     "layerTwoChainId": 9,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://1rpc.io/arb",
+    "rpcUrl": "https://arb1.arbitrum.io/rpc",
     "explorerUrl": "https://arbiscan.io",
     "iconUrl": "/token/icons/default/arbitrum.svg"
   }
