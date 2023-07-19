@@ -5,7 +5,7 @@
     "layerTwoChainId": 1,
     "symbol": "MATIC",
     "decimals": 18,
-    "rpcUrl": "https://matic-mumbai.chainstacklabs.com",
+    "rpcUrl": "https://polygon-mumbai-bor.publicnode.com",
     "explorerUrl": "https://explorer-mumbai.maticvigil.com",
     "iconUrl": "/token/icons/default/matic.svg"
   },
