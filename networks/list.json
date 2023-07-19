@@ -81,7 +81,7 @@
   },
 
   {
-    "name": "Polygon Mainnet",
+    "name": "Polygon",
     "chainId": 137,
     "layerTwoChainId": 1,
     "symbol": "MATIC",
@@ -101,7 +101,7 @@
     "iconUrl": "/token/icons/default/avax.svg"
   },
   {
-    "name": "BNB Smart Chain Mainnet",
+    "name": "BNB Smart Chain",
     "chainId": 56,
     "layerTwoChainId": 3,
     "symbol": "BNB",
@@ -111,7 +111,7 @@
     "iconUrl": "/token/icons/default/bsc.svg"
   },
   {
-    "name": "Ethereum Mainnet",
+    "name": "Ethereum",
     "chainId": 1,
     "layerTwoChainId": 4,
     "symbol": "ETH",
@@ -121,7 +121,7 @@
     "iconUrl": "/token/icons/default/eth.svg"
   },
   {
-    "name": "zkSync Era Mainnet",
+    "name": "zkSync Era",
     "chainId": 324,
     "layerTwoChainId": 5,
     "symbol": "ETH",
