@@ -79,6 +79,16 @@
     "explorerUrl": "https://testnet.arbiscan.io",
     "iconUrl": "/token/icons/default/arbitrum.svg"
   },
+  {
+    "name": "Optimism Testnet",
+    "chainId": 420,
+    "layerTwoChainId": 10,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://endpoints.omniatech.io/v1/op/goerli/public",
+    "explorerUrl": "https://optimism-goerli.blockscout.com",
+    "iconUrl": "/token/icons/default/optimism.svg"
+  },
 
   {
     "name": "Polygon",
