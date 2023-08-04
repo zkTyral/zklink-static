@@ -89,6 +89,46 @@
     "explorerUrl": "https://optimism-goerli.blockscout.com",
     "iconUrl": "/token/icons/default/optimism.svg"
   },
+  {
+    "name": "Base Testnet",
+    "chainId": 84531,
+    "layerTwoChainId": 11,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://base-goerli.public.blastapi.io",
+    "explorerUrl": "https://goerli.basescan.org",
+    "iconUrl": "/token/icons/default/base.svg"
+  },
+  {
+    "name": "Mantle Testnet",
+    "chainId": 5001,
+    "layerTwoChainId": 12,
+    "symbol": "MNT",
+    "decimals": 18,
+    "rpcUrl": "https://rpc.testnet.mantle.xyz",
+    "explorerUrl": "https://explorer.testnet.mantle.xyz",
+    "iconUrl": "/token/icons/default/mantle.svg"
+  },
+  {
+    "name": "Manta Testnet",
+    "chainId": 3441005,
+    "layerTwoChainId": 13,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://manta-testnet.calderachain.xyz/http",
+    "explorerUrl": "https://manta-testnet.calderaexplorer.xyz",
+    "iconUrl": "/token/icons/default/manta.jpg"
+  },
+  {
+    "name": "Taiko Testnet",
+    "chainId": 167005,
+    "layerTwoChainId": 14,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://rpc.test.taiko.xyz",
+    "explorerUrl": "https://explorer.test.taiko.xyz",
+    "iconUrl": "/token/icons/default/taiko.svg"
+  },
 
   {
     "name": "Polygon",
