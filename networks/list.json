@@ -199,5 +199,35 @@
     "rpcUrl": "https://arb1.arbitrum.io/rpc",
     "explorerUrl": "https://arbiscan.io",
     "iconUrl": "/token/icons/default/arbitrum.svg"
+  },
+  {
+    "name": "Optimism",
+    "chainId": 10,
+    "layerTwoChainId": 10,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://mainnet.optimism.io",
+    "explorerUrl": "https://optimistic.etherscan.io",
+    "iconUrl": "/token/icons/default/optimism.svg"
+  },
+  {
+    "name": "Base",
+    "chainId": 8453,
+    "layerTwoChainId": 11,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://developer-access-mainnet.base.org",
+    "explorerUrl": "https://basescan.org",
+    "iconUrl": "/token/icons/default/base.svg"
+  },
+  {
+    "name": "Mantle",
+    "chainId": 5000,
+    "layerTwoChainId": 12,
+    "symbol": "MNT",
+    "decimals": 18,
+    "rpcUrl": "https://mantle.publicnode.com",
+    "explorerUrl": "https://explorer.mantle.xyz",
+    "iconUrl": "/token/icons/default/mantle.svg"
   }
 ]
