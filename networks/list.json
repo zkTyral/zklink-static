@@ -110,6 +110,16 @@
     "iconUrl": "/token/icons/default/mantle.svg"
   },
   {
+    "name": "opBNB Testnet",
+    "chainId": 5611,
+    "layerTwoChainId": 15,
+    "symbol": "tBNB",
+    "decimals": 18,
+    "rpcUrl": "https://opbnb-testnet-rpc.bnbchain.org",
+    "explorerUrl": "https://opbnbscan.com",
+    "iconUrl": "/token/icons/default/opbnb.svg"
+  },
+  {
     "name": "Manta Testnet",
     "chainId": 3441005,
     "layerTwoChainId": 13,
