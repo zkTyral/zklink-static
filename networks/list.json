@@ -239,5 +239,15 @@
     "rpcUrl": "https://mantle.publicnode.com",
     "explorerUrl": "https://explorer.mantle.xyz",
     "iconUrl": "/token/icons/default/mantle.svg"
+  },
+  {
+    "name": "opBNB",
+    "chainId": 204,
+    "layerTwoChainId": 15,
+    "symbol": "BNB",
+    "decimals": 18,
+    "rpcUrl": "https://opbnb-mainnet-rpc.bnbchain.org",
+    "explorerUrl": "https://mainnet.opbnbscan.com",
+    "iconUrl": "/token/icons/default/opbnb.svg"
   }
 ]
