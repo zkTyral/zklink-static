@@ -196,7 +196,7 @@
     "layerTwoChainId": 7,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "",
+    "rpcUrl": "https://rpc.linea.build",
     "explorerUrl": "https://explorer.linea.build",
     "iconUrl": "/token/icons/default/linea.svg"
   },
