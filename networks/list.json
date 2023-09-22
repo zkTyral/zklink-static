@@ -1,7 +1,7 @@
 [
   {
     "name": "Polygon Testnet",
-    "chainId": 80001,
+    "chainId": "0x13881",
     "layerTwoChainId": 1,
     "symbol": "MATIC",
     "decimals": 18,
@@ -11,7 +11,7 @@
   },
   {
     "name": "AVAX Testnet",
-    "chainId": 43113,
+    "chainId": "0xa869",
     "layerTwoChainId": 2,
     "symbol": "AVAX",
     "decimals": 18,
@@ -21,7 +21,7 @@
   },
   {
     "name": "BSC Testnet",
-    "chainId": 97,
+    "chainId": "0x61",
     "layerTwoChainId": 3,
     "symbol": "BNB",
     "decimals": 18,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Goerli Testnet",
-    "chainId": 5,
+    "chainId": "0x5",
     "layerTwoChainId": 4,
     "symbol": "ETH",
     "decimals": 18,
@@ -41,7 +41,7 @@
   },
   {
     "name": "zkSync Era Testnet",
-    "chainId": 280,
+    "chainId": "0x118",
     "layerTwoChainId": 5,
     "symbol": "ETH",
     "decimals": 18,
@@ -51,7 +51,7 @@
   },
   {
     "name": "Scroll Alpha Testnet",
-    "chainId": 534353,
+    "chainId": "0x82751",
     "layerTwoChainId": 6,
     "symbol": "ETH",
     "decimals": 18,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Linea Testnet",
-    "chainId": 59140,
+    "chainId": "0xe704",
     "layerTwoChainId": 7,
     "symbol": "ETH",
     "decimals": 18,
@@ -71,7 +71,7 @@
   },
   {
     "name": "Arbitrum Goerli",
-    "chainId": 421613,
+    "chainId": "0x66eed",
     "layerTwoChainId": 9,
     "symbol": "AGOR",
     "decimals": 18,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Optimism Testnet",
-    "chainId": 420,
+    "chainId": "0x1a4",
     "layerTwoChainId": 10,
     "symbol": "ETH",
     "decimals": 18,
@@ -91,7 +91,7 @@
   },
   {
     "name": "Base Testnet",
-    "chainId": 84531,
+    "chainId": "0x14a33",
     "layerTwoChainId": 11,
     "symbol": "ETH",
     "decimals": 18,
@@ -101,7 +101,7 @@
   },
   {
     "name": "Mantle Testnet",
-    "chainId": 5001,
+    "chainId": "0x1389",
     "layerTwoChainId": 12,
     "symbol": "MNT",
     "decimals": 18,
@@ -111,7 +111,7 @@
   },
   {
     "name": "opBNB Testnet",
-    "chainId": 5611,
+    "chainId": "0x15eb",
     "layerTwoChainId": 15,
     "symbol": "tBNB",
     "decimals": 18,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Manta Testnet",
-    "chainId": 3441005,
+    "chainId": "0x34816d",
     "layerTwoChainId": 13,
     "symbol": "ETH",
     "decimals": 18,
@@ -131,7 +131,7 @@
   },
   {
     "name": "Taiko Testnet",
-    "chainId": 167005,
+    "chainId": "0x28c5d",
     "layerTwoChainId": 14,
     "symbol": "ETH",
     "decimals": 18,
@@ -139,10 +139,9 @@
     "explorerUrl": "https://explorer.test.taiko.xyz",
     "iconUrl": "/token/icons/default/taiko.svg"
   },
-
   {
     "name": "Polygon",
-    "chainId": 137,
+    "chainId": "0x89",
     "layerTwoChainId": 1,
     "symbol": "MATIC",
     "decimals": 18,
@@ -152,7 +151,7 @@
   },
   {
     "name": "Avalanche C-Chain",
-    "chainId": 43114,
+    "chainId": "0xa86a",
     "layerTwoChainId": 2,
     "symbol": "AVAX",
     "decimals": 18,
@@ -162,7 +161,7 @@
   },
   {
     "name": "BNB Smart Chain",
-    "chainId": 56,
+    "chainId": "0x38",
     "layerTwoChainId": 3,
     "symbol": "BNB",
     "decimals": 18,
@@ -172,7 +171,7 @@
   },
   {
     "name": "Ethereum",
-    "chainId": 1,
+    "chainId": "0x1",
     "layerTwoChainId": 4,
     "symbol": "ETH",
     "decimals": 18,
@@ -182,7 +181,7 @@
   },
   {
     "name": "zkSync Era",
-    "chainId": 324,
+    "chainId": "0x144",
     "layerTwoChainId": 5,
     "symbol": "ETH",
     "decimals": 18,
@@ -192,7 +191,7 @@
   },
   {
     "name": "Linea",
-    "chainId": 59144,
+    "chainId": "0xe708",
     "layerTwoChainId": 7,
     "symbol": "ETH",
     "decimals": 18,
@@ -202,7 +201,7 @@
   },
   {
     "name": "Arbitrum One",
-    "chainId": 42161,
+    "chainId": "0xa4b1",
     "layerTwoChainId": 9,
     "symbol": "ETH",
     "decimals": 18,
@@ -212,7 +211,7 @@
   },
   {
     "name": "Optimism",
-    "chainId": 10,
+    "chainId": "0xa",
     "layerTwoChainId": 10,
     "symbol": "ETH",
     "decimals": 18,
@@ -222,7 +221,7 @@
   },
   {
     "name": "Base",
-    "chainId": 8453,
+    "chainId": "0x2105",
     "layerTwoChainId": 11,
     "symbol": "ETH",
     "decimals": 18,
@@ -232,7 +231,7 @@
   },
   {
     "name": "Mantle",
-    "chainId": 5000,
+    "chainId": "0x1388",
     "layerTwoChainId": 12,
     "symbol": "MNT",
     "decimals": 18,
@@ -242,12 +241,22 @@
   },
   {
     "name": "opBNB",
-    "chainId": 204,
+    "chainId": "0xcc",
     "layerTwoChainId": 15,
     "symbol": "BNB",
     "decimals": 18,
     "rpcUrl": "https://opbnb-mainnet-rpc.bnbchain.org",
     "explorerUrl": "https://mainnet.opbnbscan.com",
     "iconUrl": "/token/icons/default/opbnb.svg"
+  },
+  {
+    "name": "StarkNet",
+    "chainId": "0x534e5f474f45524c49",
+    "layerTwoChainId": 16,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "",
+    "explorerUrl": "",
+    "iconUrl": "/token/icons/default/starknet.svg"
   }
 ]
