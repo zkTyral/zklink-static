@@ -110,16 +110,6 @@
     "iconUrl": "/token/icons/default/mantle.svg"
   },
   {
-    "name": "opBNB Testnet",
-    "chainId": "0x15eb",
-    "layerTwoChainId": 15,
-    "symbol": "tBNB",
-    "decimals": 18,
-    "rpcUrl": "https://opbnb-testnet-rpc.bnbchain.org",
-    "explorerUrl": "https://opbnbscan.com",
-    "iconUrl": "/token/icons/default/opbnb.svg"
-  },
-  {
     "name": "Manta Testnet",
     "chainId": "0x34816d",
     "layerTwoChainId": 13,
@@ -139,6 +129,27 @@
     "explorerUrl": "https://explorer.test.taiko.xyz",
     "iconUrl": "/token/icons/default/taiko.svg"
   },
+  {
+    "name": "opBNB Testnet",
+    "chainId": "0x15eb",
+    "layerTwoChainId": 15,
+    "symbol": "tBNB",
+    "decimals": 18,
+    "rpcUrl": "https://opbnb-testnet-rpc.bnbchain.org",
+    "explorerUrl": "https://opbnbscan.com",
+    "iconUrl": "/token/icons/default/opbnb.svg"
+  },
+  {
+    "name": "StarkNet Testnet",
+    "chainId": "0x534e5f474f45524c49",
+    "layerTwoChainId": 16,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "",
+    "explorerUrl": "",
+    "iconUrl": "/token/icons/default/starknet.svg"
+  },
+
   {
     "name": "Polygon",
     "chainId": "0x89",
@@ -248,15 +259,5 @@
     "rpcUrl": "https://opbnb-mainnet-rpc.bnbchain.org",
     "explorerUrl": "https://mainnet.opbnbscan.com",
     "iconUrl": "/token/icons/default/opbnb.svg"
-  },
-  {
-    "name": "StarkNet",
-    "chainId": "0x534e5f474f45524c49",
-    "layerTwoChainId": 16,
-    "symbol": "ETH",
-    "decimals": 18,
-    "rpcUrl": "",
-    "explorerUrl": "",
-    "iconUrl": "/token/icons/default/starknet.svg"
   }
 ]
