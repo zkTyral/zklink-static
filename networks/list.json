@@ -146,7 +146,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "rpcUrl": "",
-    "explorerUrl": "",
+    "explorerUrl": "https://testnet.starkscan.co",
     "iconUrl": "/token/icons/default/starknet.svg"
   },
 
