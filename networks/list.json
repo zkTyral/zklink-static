@@ -155,7 +155,7 @@
     "layerTwoChainId": 16,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://starknet-goerli.infura.io/v3/6a63b5b8d1b34d2ca8fdc265acc907e4",
+    "rpcUrl": "https://starknet-testnet.public.blastapi.io",
     "explorerUrl": "https://testnet.starkscan.co",
     "iconUrl": "/token/icons/default/starknet.svg"
   },
