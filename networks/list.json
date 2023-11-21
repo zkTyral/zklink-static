@@ -75,7 +75,7 @@
     "layerTwoChainId": 8,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://rpc.public.zkevm-test.net",
+    "rpcUrl": "https://polygonzkevm-testnet.g.alchemy.com/v2/RA5sNUqG8WHw0NPjWxkfFj5tu6LphwA4",
     "explorerUrl": "https://testnet-zkevm.polygonscan.com",
     "iconUrl": "/token/icons/default/polygon.svg"
   },
