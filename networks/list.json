@@ -70,7 +70,7 @@
     "iconUrl": "/token/icons/default/linea.svg"
   },
   {
-    "name": "Ploygon zkEVM Testnet",
+    "name": "Polygon zkEVM Testnet",
     "chainId": "0x5a2",
     "layerTwoChainId": 8,
     "symbol": "ETH",
