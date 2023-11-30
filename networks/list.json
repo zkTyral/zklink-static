@@ -50,13 +50,13 @@
     "iconUrl": "/token/icons/default/zksync.svg"
   },
   {
-    "name": "Scroll Alpha Testnet",
-    "chainId": "0x82751",
+    "name": "Scroll Sepolia Testnet",
+    "chainId": "0x8274f",
     "layerTwoChainId": 6,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://alpha-rpc.scroll.io/l2",
-    "explorerUrl": "https://blockscout.scroll.io",
+    "rpcUrl": "https://rpc.ankr.com/scroll_sepolia_testnet",
+    "explorerUrl": "https://sepolia.scrollscan.dev",
     "iconUrl": "/token/icons/default/scroll.svg"
   },
   {
@@ -130,13 +130,13 @@
     "iconUrl": "/token/icons/default/manta.jpg"
   },
   {
-    "name": "Taiko Testnet",
-    "chainId": "0x28c5d",
+    "name": "Taiko Jolnir Testnet",
+    "chainId": "0x28c5f",
     "layerTwoChainId": 14,
-    "symbol": "ETH",
+    "symbol": "OKB",
     "decimals": 18,
-    "rpcUrl": "https://rpc.test.taiko.xyz",
-    "explorerUrl": "https://explorer.test.taiko.xyz",
+    "rpcUrl": "https://x1-testnet.blockpi.network/v1/rpc/public",
+    "explorerUrl": "https://www.oklink.com/x1-test",
     "iconUrl": "/token/icons/default/taiko.svg"
   },
   {
@@ -158,6 +158,16 @@
     "rpcUrl": "https://starknet-testnet.public.blastapi.io",
     "explorerUrl": "https://testnet.starkscan.co",
     "iconUrl": "/token/icons/default/starknet.svg"
+  },
+  {
+    "name": "X1 Testnet",
+    "chainId": "0xc3",
+    "layerTwoChainId": 17,
+    "symbol": "OKB",
+    "decimals": 18,
+    "rpcUrl": "https://x1-testnet.blockpi.network/v1/rpc/public",
+    "explorerUrl": "https://www.oklink.com/x1-test",
+    "iconUrl": "/token/icons/default/okx.svg"
   },
 
   {
