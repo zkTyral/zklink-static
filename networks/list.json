@@ -136,7 +136,7 @@
     "symbol": "OKB",
     "decimals": 18,
     "rpcUrl": "https://rpc.jolnir.taiko.xyz",
-    "explorerUrl": "https://www.oklink.com/x1-test",
+    "explorerUrl": "https://explorer.jolnir.taiko.xyz",
     "iconUrl": "/token/icons/default/taiko.svg"
   },
   {
