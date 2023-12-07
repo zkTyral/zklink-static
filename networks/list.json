@@ -133,7 +133,7 @@
     "name": "Taiko Jolnir Testnet",
     "chainId": "0x28c5f",
     "layerTwoChainId": 14,
-    "symbol": "OKB",
+    "symbol": "ETH",
     "decimals": 18,
     "rpcUrl": "https://rpc.jolnir.taiko.xyz",
     "explorerUrl": "https://explorer.jolnir.taiko.xyz",
