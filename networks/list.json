@@ -211,6 +211,16 @@
     "iconUrl": "/token/icons/default/zksync.svg"
   },
   {
+    "name": "Scroll",
+    "chainId": "0x82750",
+    "layerTwoChainId": 6,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://rpc.scroll.io",
+    "explorerUrl": "https://scrollscan.com",
+    "iconUrl": "/token/icons/default/scroll.svg"
+  },
+  {
     "name": "Linea",
     "chainId": "0xe708",
     "layerTwoChainId": 7,
