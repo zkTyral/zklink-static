@@ -169,6 +169,16 @@
     "explorerUrl": "https://www.oklink.com/x1-test",
     "iconUrl": "/token/icons/default/okx.svg"
   },
+  {
+    "name": "Lightlink Pegasus Testnet",
+    "chainId": "0x763",
+    "layerTwoChainId": 18,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://replicator.pegasus.lightlink.io/rpc/v1",
+    "explorerUrl": "https://pegasus.lightlink.io",
+    "iconUrl": "/token/icons/default/lightlink.svg"
+  },
 
   {
     "name": "Polygon",
