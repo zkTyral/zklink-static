@@ -40,13 +40,13 @@
     "iconUrl": "/token/icons/default/eth.svg"
   },
   {
-    "name": "zkSync Era Testnet",
-    "chainId": "0x118",
+    "name": "zkSync Era Sepolia Testnet",
+    "chainId": "0x12c",
     "layerTwoChainId": 5,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://testnet.era.zksync.dev",
-    "explorerUrl": "https://goerli.explorer.zksync.io",
+    "rpcUrl": "https://sepolia.era.zksync.dev",
+    "explorerUrl": "https://sepolia.explorer.zksync.io/",
     "iconUrl": "/token/icons/default/zksync.svg"
   },
   {
@@ -130,13 +130,13 @@
     "iconUrl": "/token/icons/default/manta.jpg"
   },
   {
-    "name": "Taiko Jolnir Testnet",
-    "chainId": "0x28c5f",
+    "name": "Taiko Katla Testnet",
+    "chainId": "0x28c60",
     "layerTwoChainId": 14,
     "symbol": "ETH",
     "decimals": 18,
-    "rpcUrl": "https://rpc.jolnir.taiko.xyz",
-    "explorerUrl": "https://explorer.jolnir.taiko.xyz",
+    "rpcUrl": "https://rpc.katla.taiko.xyz",
+    "explorerUrl": "https://explorer.katla.taiko.xyz",
     "iconUrl": "/token/icons/default/taiko.svg"
   },
   {
