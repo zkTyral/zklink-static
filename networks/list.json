@@ -179,7 +179,16 @@
     "explorerUrl": "https://pegasus.lightlink.io",
     "iconUrl": "/token/icons/default/lightlink.svg"
   },
-
+  {
+    "name": "Metis Sepolia Testnet",
+    "chainId": "0xe9fd",
+    "layerTwoChainId": 19,
+    "symbol": "METIS",
+    "decimals": 19,
+    "rpcUrl": "https://sepolia.rpc.metisdevops.link",
+    "explorerUrl": "https://sepolia.explorer.metisdevops.link",
+    "iconUrl": "/token/icons/default/metis.svg"
+  },
   {
     "name": "Polygon",
     "chainId": "0x89",
