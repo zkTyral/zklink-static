@@ -281,6 +281,16 @@
     "iconUrl": "/token/icons/default/mantle.svg"
   },
   {
+    "name": "Manta Pacific",
+    "chainId": "0xa9",
+    "layerTwoChainId": 13,
+    "symbol": "ETH",
+    "decimals": 18,
+    "rpcUrl": "https://pacific-rpc.manta.network/http",
+    "explorerUrl": "https://pacific-explorer.manta.network",
+    "iconUrl": "/token/icons/default/manta.jpg"
+  },
+  {
     "name": "opBNB",
     "chainId": "0xcc",
     "layerTwoChainId": 15,
@@ -289,5 +299,15 @@
     "rpcUrl": "https://opbnb-mainnet-rpc.bnbchain.org",
     "explorerUrl": "https://mainnet.opbnbscan.com",
     "iconUrl": "/token/icons/default/opbnb.svg"
+  },
+  {
+    "name": "Metis",
+    "chainId": "0x440",
+    "layerTwoChainId": 19,
+    "symbol": "METIS",
+    "decimals": 18,
+    "rpcUrl": "https://andromeda.metis.io/?owner=1088",
+    "explorerUrl": "https://explorer.metis.io",
+    "iconUrl": "/token/icons/default/metis.svg"
   }
 ]
