@@ -166,7 +166,7 @@
     "layerTwoChainId": 1,
     "symbol": "MATIC",
     "decimals": 18,
-    "rpcUrl": "https://polygon.llamarpc.com",
+    "rpcUrl": "https://1rpc.io/matic",
     "explorerUrl": "https://polygonscan.com",
     "iconUrl": "/token/icons/default/matic.svg"
   },
